@@ -1,0 +1,1 @@
+The Dice Game is a simple and fun two-player game where each player rolls a dice, and the player with the highest roll wins. It's a quick and easy way to pass the time, with a clean interface and randomized dice rolls to keep the game fair and exciting!
